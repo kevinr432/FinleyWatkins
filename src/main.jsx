@@ -4,28 +4,20 @@ import './styles.css';
 
 const tickets = [
   {
-    name: 'Best Seats',
-    subtitle: 'VIP Front Row',
+    name: 'Premium VIP Seats',
+    subtitle: 'Front Row',
     price: '$35',
     note: 'Closest view of the stage',
     url: 'https://square.link/u/bPtxOHod',
     className: 'red'
   },
   {
-    name: 'Second Best Seats',
-    subtitle: 'VIP Second and Third Rows',
-    price: '$30',
+    name: 'VIP Seats',
+    subtitle: 'Second, Third, and Fourth Rows',
+    price: '$25',
     note: 'Premium reserved seating',
     url: 'https://square.link/u/ksj2oFpb',
     className: 'green'
-  },
-  {
-    name: 'Third Best Seats',
-    subtitle: 'VIP Fourth and Fifth Rows',
-    price: '$25',
-    note: 'Great reserved seating',
-    url: 'https://square.link/u/cob0ti0B',
-    className: 'blue'
   },
   {
     name: 'Main Floor',
