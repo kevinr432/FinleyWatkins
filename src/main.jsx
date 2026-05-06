@@ -45,7 +45,7 @@ function App() {
         <div className="heroText">
           <p className="eyebrow">Live at The Melody Theater</p>
           <h1>Finley Watkins</h1>
-          <h2>Elvis and More</h2>
+          <h2>Leather to Legend</h2>
           <p className="date">Saturday, June 13 · 7:00 PM</p>
           <p className="address">301 S. Main St., Leachville, AR 72438</p>
         </div>
